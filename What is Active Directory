@@ -1,0 +1,3 @@
+Active Directory is the services provided by Microsoft to manage the database of users across a giant network through a window server. A common method for managing all users over a single network in Big Organizations. 
+
+AD contains user details (PII). It allows you to remotely control all the users' computers. As a result, we can assign what type of privileges can be granted to whom according to their roles. 
